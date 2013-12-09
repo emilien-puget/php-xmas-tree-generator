@@ -15,3 +15,8 @@ There are two GET options available, step and height.
 
 Step control the number of step.
 Height control the height of each step.
+
+Fiddle
+------
+
+http://phpfiddle.org/lite/code/9ug-e6m
