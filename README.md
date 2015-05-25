@@ -16,7 +16,8 @@ There are two GET options available, step and height.
 Step control the number of step.
 Height control the height of each step.
 
-Fiddle
+Demo
 ------
 
-http://phpfiddle.org/lite/code/9ug-e6m
+http://sapin.obviouslair.com/
+http://sapin.obviouslair.com/?height=4&step=3
